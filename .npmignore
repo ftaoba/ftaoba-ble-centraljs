@@ -1,0 +1,6 @@
+src/
+.eslintrc.js
+.github
+.gitignore
+.prettierrc
+yarn.lockR

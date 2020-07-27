@@ -1,8 +1,8 @@
 {
-  "name": "ftaoba-ble-centraljs",
-  "version": "1.0.0",
+  "name": "@ftaoba/ble-central",
+  "version": "0.1.0",
   "description": "ftaoba ble central",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "author": "Syu Kato <ukyo.web@gmail.com>",
   "license": "MIT",
   "scripts": {
