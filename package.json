@@ -1,5 +1,6 @@
 {
   "name": "@ftaoba/ble-central",
+  "private": false,
   "version": "0.1.0",
   "description": "ftaoba ble central",
   "main": "dist/index.js",
