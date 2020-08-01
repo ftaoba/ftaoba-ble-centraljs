@@ -3,4 +3,5 @@ src/
 .github
 .gitignore
 .prettierrc
-yarn.lockR
+yarn.lock
+tsconfig.json

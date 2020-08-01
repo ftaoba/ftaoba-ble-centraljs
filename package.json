@@ -1,7 +1,7 @@
 {
   "name": "@ftaoba/ble-central",
   "private": false,
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "ftaoba ble central",
   "main": "dist/index.js",
   "author": "Syu Kato <ukyo.web@gmail.com>",
