@@ -6,7 +6,7 @@ export class FTAobaFaceData {
   get transform() {
     if (this._transform) return (this._transform as any) as ReadonlyArray<number>;
     this._transform = new Float32Array(this.dataView.buffer, this.dataView.byteOffset + 8, 16);
-    return (this.browDownLeft as any) as ReadonlyArray<number>;
+    return (this._transform as any) as ReadonlyArray<number>;
   }
   get eyeBlinkLeft() {
     return this.dataView.getFloat32(72, true);
